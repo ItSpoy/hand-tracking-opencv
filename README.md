@@ -276,7 +276,7 @@ The `.venv312/` virtual environment and Python cache files are intentionally exc
 
 ## Author
 
-**Souhaiel**  
+**Boujebha Souhaiel**  
 GitHub: [@ItSpoy](https://github.com/ItSpoy)
 
 ---
